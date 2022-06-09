@@ -9,5 +9,4 @@ apk add p7zip
 apk add bash
 
 chmod +x deb
-
 mv deb /bin
